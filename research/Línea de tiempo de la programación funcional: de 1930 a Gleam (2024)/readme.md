@@ -16,7 +16,9 @@ La programación funcional tiene sus propios principios y paradigmas:
 - **Composición de funciones.** Las funciones complejas se pueden construir a partir de varias simples. Las *pipelines* de procesamiento de datos tienen, entonces, una composición modular y clara.
 - **Recursión.** Es el método que se usa para iterar sobre datos en vez de usar bucles tradicionales. Va en la misma línea de la inmutabilidad, dado que cada llamada recursiva trabaja con una nueva versión de un dato.
 
-> **Imagen:** Una función como caja negra: entra un dato, sale un resultado. Fuente: Barbulat / Getty Images.
+<img width="571" height="319" alt="Captura de pantalla 2026-09-08 a la(s) 3 07 10 p m" src="https://github.com/user-attachments/assets/4c361ad6-d65d-47bb-95c3-5c026cbbf9ae" />
+
+> **Imagen 1:** Una función como caja negra: entra un dato, sale un resultado. Fuente: Barbulat / Getty Images.
 
 ---
 
@@ -52,6 +54,14 @@ Fue creado para seguir la notación matemática del cálculo lambda de Alonzo Ch
 ### 1973 - ML
 
 Robin Milner, en Edimburgo, inventa ML, que introduce la inferencia de tipos Hindley-Milner, base del tipado moderno.
+
+ML (Metalanguage) es un lenguaje de programación funcional desarrollado en 1973 por Robin Milner y su equipo en la Universidad de Edimburgo.
+Diseñado originalmente para implementar demostradores automáticos de teoremas (como el sistema LCF).
+Sus características clave incluyen:
+- **Inferencia de tipos (Hindley-Milner).** Permite que el compilador deduzca automáticamente los tipos de datos de las expresiones sin necesidad de que el programador los declare manualmente,
+- **Manejo de excepciones.** Fue uno de los pioneros en integrar sistemas estructurados para el control de errores.
+- **Gestión de memoria**. Introdujo el uso automático de recolección de basura.
+- **Sistema de módulos y coincidencia de patrones (pattern matching).** Facilitó la estructuración de código complejo y la manipulación de estructuras de datos algebraicas.
 
 ### 1990 - Haskell 1.0
 
