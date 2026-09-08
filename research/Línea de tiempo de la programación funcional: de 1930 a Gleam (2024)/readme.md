@@ -1,4 +1,10 @@
 # Línea de tiempo de la programación funcional: de 1930 a Gleam (2024)
+---
+### Alumno: CAMACHO OTAÑEZ JUAN PABLO
+### Docente: SOLIS REYES RENE
+### Materia: Programación Logica y Funcional
+### Horario: 4:00pm a 5:00pm
+---
 
 ## ¿Qué es la programación funcional?
 
