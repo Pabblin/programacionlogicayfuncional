@@ -26,7 +26,6 @@ La programación funcional tiene sus propios principios y paradigmas:
 
 ```mermaid
 gantt
-    title Linea de tiempo de la programación funcional
     dateFormat YYYY
     axisFormat %Y
 
