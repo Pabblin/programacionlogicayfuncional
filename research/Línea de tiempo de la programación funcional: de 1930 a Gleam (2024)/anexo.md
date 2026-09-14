@@ -10,7 +10,7 @@ Este documento explica el uso de la herramienta ChatGPT (Codex, OpenAI) y su int
 
 ---
 - **Modelo 2:** Kimi K3 
-- **Uso principal:** Selección de fechas relevantes y diagramas de apoyo visual.
+- **Uso principal:** Selección de fechas relevantes y diagramas de apoyo visual así como el formato de las referencias.
 - **Uso que NO se le dio:** Investigación sobre las fechas seleccionadas.
 ---
 
@@ -46,6 +46,24 @@ Este documento explica el uso de la herramienta ChatGPT (Codex, OpenAI) y su int
 **Resultado obtenido:** Un diagrama de la linea del tiempo en .mermaid.
 
 **Reflexión:** Ayudo a tener un elemento mas visual dentro del documento `readme.md`.
+
+---
+### Prompt 4 — Formato de referencias
+
+**Prompt real:**
+> "https://extension.uned.es/actividad/idactividad/47841
+https://www.inesdi.com/blog/programacion-funcional/
+https://museo.inf.upv.es/lisp/
+https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/que-es-haskell/
+https://gleam.run/news/gleam-version-1/
+https://beecrowd.com/es/blog-posts/elm-3/
+https://serokell.io/blog/introduction-to-elixir
+
+En formato IEEE"
+
+**Resultado obtenido:** Fuentes en formato IEEE.
+
+**Reflexión:** Hace mas facil poder acreditar las fuentes en la investigación
 
 ---
 
