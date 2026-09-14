@@ -107,10 +107,16 @@ Sus características principales incluyen:
 
 ## Fuentes
 
-- https://extension.uned.es/actividad/idactividad/47841
-- https://www.inesdi.com/blog/programacion-funcional/
-- https://museo.inf.upv.es/lisp/
-- https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/que-es-haskell/
-- https://gleam.run/news/gleam-version-1/
-- https://beecrowd.com/es/blog-posts/elm-3/
-- https://serokell.io/blog/introduction-to-elixir
+[1]  beecrowd, "Elm," beecrowd Blog. [Online]. Available: https://beecrowd.com/es/blog-posts/elm-3/
+
+[2]  Inesdi, "Definición y aplicaciones de la programación funcional," Inesdi Blog. [Online]. Available: https://www.inesdi.com/blog/programacion-funcional/
+
+[3]  IONOS, "¿Qué es Haskell? Todo sobre el lenguaje de programación," IONOS Digital Guide. [Online]. Available: https://www.ionos.mx/digitalguide/paginas-web/desarrollo-web/que-es-haskell/
+
+[4]  L. Pilfold, "Gleam version 1," Gleam, Mar. 4, 2024. [Online]. Available: https://gleam.run/news/gleam-version-1/
+
+[5]  Serokell, "Introduction to Elixir," Serokell Blog. [Online]. Available: https://serokell.io/blog/introduction-to-elixir
+
+[6]  UNED, "Conferencia: Cálculo lambda (λ-calculus)," Extensión Universitaria en Madrid, 27 de noviembre de 2025. [Online]. Available: https://extension.uned.es/actividad/idactividad/47841
+
+[7]  Universitat Politècnica de València, "LISP," Museo de Informática 2.0. [Online]. Available: https://museo.inf.upv.es/lisp/
