@@ -105,6 +105,14 @@ Sus características principales incluyen:
 
 ---
 
+# Conclusión:
+La programación funcional tiene su origen en el calculo lambda el cual nos dice que toda maquina de Turing puede representarse mediante funcionaes, que reciben un argumento sin depender de numeros, variables, bucles ni instrucciones. El primer lenguaje funcional fue LISP el cual es el lenguaje funcional mas antiguo aun en uso. Posteriormente se crearon ML, HASKELL, Elixir y ELM hasta llegar aa GLEM.
+La principal caracteristica de la programacion funcional es que se basa en el principio del calculo lambda, es decir solo utilizando funciones.
+A diferencia de la programacion logica la cual se basa en el principio de la regla logica (Horn). 
+La diferencia clave es que en programación funcional tu decides el orden mientras que el programación lógica, el programa decide que el orden.
+
+
+
 ## Fuentes
 
 [1]  beecrowd, "Elm," beecrowd Blog. [Online]. Available: https://beecrowd.com/es/blog-posts/elm-3/
